@@ -1,8 +1,8 @@
 {
-    "name": "greggilbert/recaptcha",
+    "name": "cshireman/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 5",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
-	"homepage": "http://github.com/greggilbert/recaptcha",
+	"homepage": "http://github.com/cshireman/recaptcha",
 	"license": "MIT",
     "abandoned": true,
     "authors": [
